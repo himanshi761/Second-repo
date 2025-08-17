@@ -1,1 +1,2 @@
 My first Git experiment
+Added procedure and observations
